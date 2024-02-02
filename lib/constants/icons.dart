@@ -1,0 +1,34 @@
+class AppIcons {
+  static const String about = 'assets/icons/about.svg';
+  static const String back = 'assets/icons/back.png';
+  static const String background = 'assets/icons/background.svg';
+  static const String contact = 'assets/icons/contect.png';
+  static const String copy = 'assets/icons/Copy.png';
+  static const String feedback = 'assets/icons/feedback.png';
+  static const String home = 'assets/icons/home.svg';
+  static const String logo = 'assets/icons/logo.png';
+  static const String logoPNG = 'assets/logo.png';
+  static const String askai_logo = 'assets/askai_logo.png';
+  static const String menu = 'assets/icons/menu.png';
+  static const String mic = 'assets/icons/mic.png';
+  static const String privacy = 'assets/icons/privacy.png';
+  static const String profile = 'assets/icons/profile.svg';
+  static const String send = 'assets/icons/send.png';
+  static const String settings = 'assets/icons/settings.png';
+  static const String settings1 = 'assets/icons/settings.svg';
+  static const String share = 'assets/icons/Share.png';
+  static const String website = 'assets/icons/website.png';
+  static const String image1 = 'assets/icons/1.png';
+  static const String image2 = 'assets/icons/2.png';
+  static const String image3 = 'assets/icons/3.png';
+  static const String harvest = 'assets/icons/harvest.png';
+  static const String harvest1 = 'assets/icons/harvest1.png';
+  static const String harvest2 = 'assets/icons/harvest2.png';
+  static const String plant = 'assets/icons/plant.png';
+  static const String plant2 = 'assets/icons/plant2.png';
+  static const String water = 'assets/icons/water.png';
+  static const String water2 = 'assets/icons/water2.png';
+  static const String plant1 = 'assets/icons/plant1.png';
+  static const String prune = 'assets/icons/prune.png';
+  static const String prune2 = 'assets/icons/prune2.png';
+}

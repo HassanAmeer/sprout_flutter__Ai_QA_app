@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "862166008782",
+    "project_id": "sprout-ai-4a8e4",
+    "storage_bucket": "sprout-ai-4a8e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862166008782:android:9a3e2926e053e93690e19f",
+        "android_client_info": {
+          "package_name": "com.example.sprout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862166008782-uat44dl19qmlt2j29iv42r0kejb5n20b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWx_2iq-Ai2hk6U7AFAVIcTg_XjCqUuwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862166008782-uat44dl19qmlt2j29iv42r0kejb5n20b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "862166008782-9bn984h2j38132helk6bb2pa6gjnilqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sprout"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862166008782:android:5c0b6e8d126126df90e19f",
+        "android_client_info": {
+          "package_name": "com.kc.sprout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862166008782-uat44dl19qmlt2j29iv42r0kejb5n20b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWx_2iq-Ai2hk6U7AFAVIcTg_XjCqUuwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862166008782-uat44dl19qmlt2j29iv42r0kejb5n20b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "862166008782-9bn984h2j38132helk6bb2pa6gjnilqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sprout"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
